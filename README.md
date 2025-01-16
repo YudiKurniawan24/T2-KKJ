@@ -47,5 +47,3 @@ setelah itu tinggal anda pilih pilihan "enkripsi" atau "dekripsi"
 ## Lisensi
 Tugas ini merupakan karya pribadi dan tidak terikat pada lisensi khusus. Anda dapat menggunakannya untuk tujuan pembelajaran.
 
-## Kontak
-Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi saya melalui [email@example.com](mailto:email@example.com).
